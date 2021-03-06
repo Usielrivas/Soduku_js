@@ -1,0 +1,37 @@
+.header{
+	background: #0404f9;
+	color: #fff;
+	margin-bottom: 20px;
+	margin-top: 20px;
+	padding: 20px;
+}
+body{
+	background: #bbbbcc;
+}
+.imga{
+padding: 25px;
+  position: relative;
+  background: url("img/server-2160321_640.jpg") repeat-y;
+background-repeat: no-repeat;
+background-size: 100% 100%;
+padding-top: 15px;
+padding-bottom: 15px;
+}
+.imgb{
+  background: url("img/optics-4691414_640.jpg") repeat-y;
+background-repeat: no-repeat;
+background-size: 100% 100%;
+padding-top: 15px;
+padding-bottom: 15px;
+}
+.txt{
+	color: #fff;
+}
+.pb{
+	padding: 10px;
+}
+.abs {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
